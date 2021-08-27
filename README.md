@@ -1,9 +1,9 @@
 # pizzamenu
-This app is created for challenging This app is created for challenging, the idea is implemented, needs to fix some bugs regarding the data storage, because of time lacking I couldn't use firebase storage to store it, instead of it I used the local storage, it will be fine since it is only for testing.
+This app is created for challenging, the idea is implemented, needs to fix some bugs regarding the data storage, because of time lacking I couldn't use firebase storage to store it, instead of it I used the local storage, it will be fine since it is only for testing.
 
 Uploading an image from the gallery or from the camera is also implemented.
 
-For Google Maps, the tracking needs more setup on the drivers' app, I added the Google Maps and locating Aument on it.
+For Google Maps, the tracking needs more setup on the drivers' app, I added the Google Maps and locating Aumet on it.
 
 Sign up, Log in, and Log out all implemented using firebase authentication.
 
